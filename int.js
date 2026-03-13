@@ -10,13 +10,11 @@ let a=prompt("Enter here value of a");
 //a=Number.parseInt(a);
 let write=confirm("Do you want to write the value of a?");
 if(write){
-    location.href="https://www.codewithharry.com";
+    location.href="https://www.google.com";
 }
 else{
     console.error("You are not a special");
 }
-let color=prompt("Enter the color ");
-document.body.style.backgroundColor=color;
 // 1. Array of possible choices
 let choices = ["S", "W", "G"];
 
