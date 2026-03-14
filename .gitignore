@@ -1,0 +1,9 @@
+# Files kept only on my computer
+hen.css
+in.html
+int.js
+inline.js
+delete.html
+
+# Ignore dependencies
+node_modules/
